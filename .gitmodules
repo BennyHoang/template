@@ -1,0 +1,3 @@
+[submodule "templateProject/src/app/template-submodule"]
+	path = templateProject/src/app/template-submodule
+	url = https://github.com/BennyHoang/template-submodule.git
